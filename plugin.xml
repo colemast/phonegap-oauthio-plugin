@@ -25,5 +25,4 @@
       <engine name="cordova" version=">=3.0.0" />
     </engines>
 
-    <dependency id="cordova-plugin-inappbrowser" url="https://github.com/AppGyver/cordova-plugin-inappbrowser.git" />
 </plugin>
